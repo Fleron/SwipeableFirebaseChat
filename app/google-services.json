@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "388930372603",
+    "firebase_url": "https://fir-swipeswed.firebaseio.com",
+    "project_id": "fir-swipeswed",
+    "storage_bucket": "fir-swipeswed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388930372603:android:48fdf7e8bdf2bf77",
+        "android_client_info": {
+          "package_name": "com.example.fleron.swipeablefirebasechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388930372603-ntqq3mpq1rs93s5fuh6l0b0m1uos1cf4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fleron.swipeablefirebasechat",
+            "certificate_hash": "7D975E0E2E1E93C10A006EA4DFFA73ACE9989D70"
+          }
+        },
+        {
+          "client_id": "388930372603-vkmfuearbjlcv5r041ola1nt5qab5okc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlBQ9aziBw0Sa29opfWfPc830bcDs0wl4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388930372603-vkmfuearbjlcv5r041ola1nt5qab5okc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
